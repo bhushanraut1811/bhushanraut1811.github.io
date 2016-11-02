@@ -47,7 +47,7 @@ education:
  - level: Bachelor of Engineering
    date: 2011-15
    subject: Computer Science & Engineering
-   school: Shri Ramdeobaba College of Engineering and Managemnet,Nagpur,Inida
+   school: Shri Ramdeobaba College of Engineering and Management,Nagpur,Inida
 
 #This section is optional (as is the image link below)
 coursera:
@@ -80,6 +80,11 @@ apps:
    platform: Android
    url: https://play.google.com/store/apps/details?id=apps.techmines.codingcontestapp
    description: An App for active and upcoming coding contests
+   
+ - name: ShareWithMe
+   platform: Android
+   url: https://play.google.com/store/apps/details?id=apps.techmines.sharewithme
+   description: An App to locally share/manage the links
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
