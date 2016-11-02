@@ -69,7 +69,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/5638613/nlogn
-   flairimageurl: https://i.stack.imgur.com/RX6rO.png?s=48&g=1
+   flairimageurl: http://stackoverflow.com/users/flair/5638613.png
 
 #Mobile apps section is optional
 apps:
