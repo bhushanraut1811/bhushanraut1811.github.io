@@ -10,15 +10,15 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Quora
-   url: http://automateddeveloper.blogspot.com/
+   url: https://quora.com/profile/Bhushan-Raut?srid=T1jz&share=d32fda73
  - title: GitHub
    url: https://github.com/bhushanraut1811
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: http://stackoverflow.com/users/5638613/nlogn
+ - title: AngelList
+   url: https://angel.co/bhushanraut1811
  - title: LinkedIn
-   url: https://www.linkedin.com/bhushanraut1811
+   url: https://www.linkedin.com/in/bhushanraut1811
 
 #Any buzzword skills you want to include
 skills:
@@ -71,15 +71,15 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   profileurl: http://stackoverflow.com/users/5638613/nlogn
+   flairimageurl: https://i.stack.imgur.com/RX6rO.png?s=48&g=1
 
 #Mobile apps section is optional
 apps:
- - name: Chuck the Quiz
+ - name: Coding Contest App
    platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+   url: https://play.google.com/store/apps/details?id=apps.techmines.codingcontestapp
+   description: An App for active and upcoming coding contests
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
