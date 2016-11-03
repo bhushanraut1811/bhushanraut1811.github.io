@@ -89,21 +89,25 @@ stackoverflow:
 #Mobile apps section is optional
 apps:
  - name: Coding Contest App
+   logo: https://lh3.googleusercontent.com/ggLaFvlnHRFn9h1yS2G67zyfRxh7AdgeEk6r-Ki3CbityuH4y7Z5yA9_AY46N5Z8vSg=w300
    platform: Android
    url: https://play.google.com/store/apps/details?id=apps.techmines.codingcontestapp
    description: An App for active and upcoming coding contests
    
  - name: ShareWithMe
+   logo: https://lh3.googleusercontent.com/ggLaFvlnHRFn9h1yS2G67zyfRxh7AdgeEk6r-Ki3CbityuH4y7Z5yA9_AY46N5Z8vSg=w300
    platform: Android
    url: https://play.google.com/store/apps/details?id=apps.techmines.sharewithme
    description: An App to locally share/manage the links
 
  - name: Flash Cards Quiz
+   logo: https://lh3.googleusercontent.com/ggLaFvlnHRFn9h1yS2G67zyfRxh7AdgeEk6r-Ki3CbityuH4y7Z5yA9_AY46N5Z8vSg=w300
    platform: Android
    url: https://play.google.com/store/apps/details?id=com.techmines.flashcards.quiz
    description: Test and learn English with Vocabulary flash cards
    
  - name: Banking Awareness Guide
+   logo: https://lh3.googleusercontent.com/ggLaFvlnHRFn9h1yS2G67zyfRxh7AdgeEk6r-Ki3CbityuH4y7Z5yA9_AY46N5Z8vSg=w300
    platform: Android
    https://play.google.com/store/apps/details?id=com.techmines.bankawareness
    description: Complete offline guide for competitive exam preparation
