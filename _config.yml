@@ -43,20 +43,20 @@ roles:
 education:
  - level: Bachelor of Engineering (Computer Science & Engineering)
    date: 2011-15
-   CGPA: 7.86 
+   CGPA/Percent: 7.86 
    school: Shri Ramdeobaba College of Engineering and Management,Nagpur,Inida
    
 #schooling
 education:
  - level: HSC (Maharashtra State Board)
    date: 2010-11
-   percentage: 90.30%
+   CGPA/Percent: 90.30%
    school: Dharampeth Science College,Nagpur,Inida
    
 education:
  - level: SSC (Maharashtra State Board)
    date: 2008-09
-   percentage: 81.50%
+   CGPA/Percent: 81.50%
    school: Dharampeth Science College,Nagpur,Inida   
    
    
