@@ -96,19 +96,19 @@ apps:
    description: An App for active and upcoming coding contests
    
  - name: ShareWithMe
-   logo: https://lh3.googleusercontent.com/ggLaFvlnHRFn9h1yS2G67zyfRxh7AdgeEk6r-Ki3CbityuH4y7Z5yA9_AY46N5Z8vSg=w300
+   logo: https://lh3.googleusercontent.com/uFiSBYPqVT4mgVfm0a3d_3eMVx9xmxyXdqgRIcO2vEJ-SZEmqiAgcg74bLZ6wAP-PDU=w300
    platform: Android
    url: https://play.google.com/store/apps/details?id=apps.techmines.sharewithme
    description: An App to locally share/manage the links
 
  - name: Flash Cards Quiz
-   logo: https://lh3.googleusercontent.com/ggLaFvlnHRFn9h1yS2G67zyfRxh7AdgeEk6r-Ki3CbityuH4y7Z5yA9_AY46N5Z8vSg=w300
+   logo: https://lh3.googleusercontent.com/dcbPQwWt1c4E-y6vUsZrLHeVNE_ADeMKYUaeaYsG7GqrKwwvbXhGs-Jzhi3CF1d1DNaf=w300
    platform: Android
    url: https://play.google.com/store/apps/details?id=com.techmines.flashcards.quiz
    description: Test and learn English with Vocabulary flash cards
    
  - name: Banking Awareness Guide
-   logo: https://lh3.googleusercontent.com/ggLaFvlnHRFn9h1yS2G67zyfRxh7AdgeEk6r-Ki3CbityuH4y7Z5yA9_AY46N5Z8vSg=w300
+   logo: https://lh3.googleusercontent.com/hpG0E9H_kZmrU0wsJ6Br6Scad_2oeWieOC0PtVavOtYi2cEypcEsA6HF2zMSxHcj0bA=w300
    platform: Android
    url: https://play.google.com/store/apps/details?id=com.techmines.bankawareness
    description: Complete offline guide for competitive exam preparation
