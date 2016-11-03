@@ -18,7 +18,11 @@
 					<tbody>
 						{% for app in site.apps %}
 							<tr>
-								<td>{{app.logo}}</td>
+								<td>
+								<div class="col-sm-5">
+							        <img src="{{app.logo}}">
+						                </div>
+							        </td>
 								<td>{{app.name}}</td>
 								<td>{{app.platform}}</td>
 								<td><a target='_blank' href="{{app.url}}">App store</a></td>
