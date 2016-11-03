@@ -47,19 +47,15 @@ education:
    score: 7.86 
    school: Shri Ramdeobaba College of Engineering and Management,Nagpur,Inida
    
-#schooling
-education:
  - level: HSC (Maharashtra State Board)
    date: 2010-11
-   score: 90.30%
+   score: 81.50%
    school: Dharampeth Science College,Nagpur,Inida
    
-education:
  - level: SSC (Maharashtra State Board)
    date: 2008-09
-   score: 81.50%
-   school: Dharampeth Science College,Nagpur,Inida   
-   
+   score: 90.30%
+   school: Bishop Cotton School,Nagpur,Inida   
    
 
 #This section is optional (as is the image link below)
